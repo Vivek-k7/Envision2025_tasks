@@ -18,7 +18,9 @@
 - 🔹 **Convert** `Height` from **cm to meters**.
 - 🔹 **Save** the dataset in **CSV and Parquet format**.
 - 🔹 **Write a short note** on **CSV vs Parquet** in the README (Use ChatGPT for reference but write in your own words).
-
+- 🔹 ###Short note on CSV vs Parquet:
+  - **CSV**: consists of text where data is separated by commas. No strict datatypes. Slower to read and write but can be usefull for small datasets.
+  - **Parquet**: consists of data compressed and in binary form. Smaller in size and also faster to read and write to. Ideal for large datasets.
 ---
 
 ## **Task 1.2: Budget-Constrained Player Selection**
